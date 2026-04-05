@@ -1,4 +1,7 @@
-![logo]()
+<div align="center">
+  <img src="https://github.com/jadhavraj2312/jadhavraj2312/blob/main/Freelancer%20Banner.png?raw=true">
+</div>
+
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
